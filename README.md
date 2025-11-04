@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy <b>Shafurs García Giraldo</b></h1>
+<h1 align="center">👋 ¡Hola! Soy <b>Shafurs Garcia Giraldo</b></h1>
 
 <p align="center">
   🎓 <b>Mining Engineering Student – Universidad Privada del Norte (UPN)</b><br>
